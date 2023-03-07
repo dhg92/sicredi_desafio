@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Mar 03 19:29:48 BRT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0186-a998-7c79-000003618200 
+on database directory memory:C:\Users\DH47\Desktop\Projetos\Sicredi\prova-tecnica-api-master\sicredi_desafio\testdb with class loader java.net.URLClassLoader@5690c2a8 
+Loaded from file:/C:/Users/DH47/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.2+7-44
+user.dir=C:\Users\DH47\Desktop\Projetos\Sicredi\prova-tecnica-api-master\sicredi_desafio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
